@@ -2,7 +2,7 @@
 title: "How Foxhole redefines the MMO genre"
 date: 2025-12-31T20:14:00+07:00
 slug: /how-foxhole-redefines/
-description:: Massive war bringing hundreds of players together online
+description: A game with massive wars bringing hundreds of players together online
 image: images/foxhole-thumb.webp
 caption: Screenshot captured on BlueLaminate youtube channel
 categories:

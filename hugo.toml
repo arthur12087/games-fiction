@@ -15,7 +15,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 [params.author]
 	name = 'Arthur Nobrega'
 	bio = 'Entusiasta do mundo dos jogos e tecnologia'
-	avatar = '/images/nasa-astronaut-unsplash.jpg'
+	avatar = '/images/badass.jpeg'
 	twitter = 'https://twitter.com/insertapps'
 
 [pagination]
